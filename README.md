@@ -9,7 +9,7 @@
 
 ### 2) S/W 구성도
 #### 2-1) 앱 어플리케이션 구성도
-<img width="20%" src="https://user-images.githubusercontent.com/103934004/204715760-2b8c1382-a3d7-4edd-92c2-9c13496aa141.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/103934004/204715760-2b8c1382-a3d7-4edd-92c2-9c13496aa141.png"/>
 
 #### 2-1) 메뉴 구성도
-<img width="20%" src="https://user-images.githubusercontent.com/103934004/204715906-fa673619-4fe7-4163-bf8d-736eea99c924.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/103934004/204715906-fa673619-4fe7-4163-bf8d-736eea99c924.png"/>
