@@ -12,6 +12,6 @@
 
 ### 1-1) 하드웨어 구성도
 
-![사진1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24aa548a-2261-4291-9737-3bdc1160727c/%EC%82%AC%EC%A7%841.png)
+(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24aa548a-2261-4291-9737-3bdc1160727c/%EC%82%AC%EC%A7%841.png)
 
-![그림2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd858f8d-00d3-48c5-9b4b-fd2c11942a39/%EA%B7%B8%EB%A6%BC2.png)
+(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd858f8d-00d3-48c5-9b4b-fd2c11942a39/%EA%B7%B8%EB%A6%BC2.png)
