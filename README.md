@@ -13,3 +13,8 @@
 
 #### 2-1) 메뉴 구성도
 <img width="60%" src="https://user-images.githubusercontent.com/103934004/204715906-fa673619-4fe7-4163-bf8d-736eea99c924.png"/>
+
+
+#### 참고자료
+- 표정인식
+https://github.com/omar178/Emotion-recognition
