@@ -1,4 +1,7 @@
 ## 2022-한이음 공모전[아로마 테라피를 지원하는 지능형 샤워기]
+## Video
+https://www.youtube.com/watch?v=o64UrTMOjCU
+[![Video Label](http://img.youtube.com/vi/o64UrTMOjCU/0.jpg)](https://www.youtube.com/watch?v=o64UrTMOjCU)
 ### 1. H/W 구성도
 #### 1) 하드웨어 구성도
 <img width="30%" src="https://user-images.githubusercontent.com/103934004/204711472-b9cdb6a4-bfe0-4563-9eef-c998c4dc79bc.png"/>
